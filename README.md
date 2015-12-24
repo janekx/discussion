@@ -1,12 +1,12 @@
-# discussion
+# Discussion
 Discuss issues or concerns for the FrSky-OS
 
-Issue guides
+# Issue guides
 If you find new bug, first of all please look at openend and closed issues if there is not allready.
 If exist you can comment if you have more informations. 
 If not exist, make new issue. 
 
-New issue should contain:
+# New issue should contain:
 Version where was found, Simu, Horus ...
 Version of FW (will be useful in future)
 Description of the issue 
@@ -16,7 +16,7 @@ If possible screenshot it is for 1000 words :)
 
 
 
-Labels: 
+# Labels: 
 bud critical - highest priority, life critical 
 bug low - not critical for system usage
 enhancement - improvement, new ideas...
